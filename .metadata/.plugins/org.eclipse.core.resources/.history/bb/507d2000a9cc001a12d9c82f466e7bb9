@@ -1,0 +1,9 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Mail.sendSimpleMail("official.srv.modak@gmail.com", "", "", "/Users/souravmodak/Downloads/SOURAV FDL.pdf", "srvmodak656@gmail.com", "anu#@583", "TEST", "Test Mail From Java program", "smtp.gmail.com", "587");
+	}
+
+}

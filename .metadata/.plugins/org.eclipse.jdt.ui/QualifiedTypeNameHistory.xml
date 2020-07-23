@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="javax.mail.Session"/>
+    <fullyQualifiedTypeName name="javax.mail.Authenticator"/>
+    <fullyQualifiedTypeName name="javax.mail.PasswordAuthentication"/>
+    <fullyQualifiedTypeName name="javax.mail.Message"/>
+    <fullyQualifiedTypeName name="javax.mail.Message.RecipientType"/>
+    <fullyQualifiedTypeName name="Mail"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.MimeMessage"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.MimeBodyPart"/>
+    <fullyQualifiedTypeName name="javax.activation.FileDataSource"/>
+    <fullyQualifiedTypeName name="javax.activation.DataSource"/>
+    <fullyQualifiedTypeName name="javax.activation.DataHandler"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.MimeMultipart"/>
+    <fullyQualifiedTypeName name="javax.mail.Multipart"/>
+    <fullyQualifiedTypeName name="javax.mail.BodyPart"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.connect.Transport"/>
+    <fullyQualifiedTypeName name="javax.mail.Transport"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.InternetAddress"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.mail.Address"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Mail.sendSimpleMail("official.srv.modak@gmail.com", "", "", "/Users/souravmodak/Downloads/SOURAV FDL.pdf", "srvmodak656@gmail.com", "anu#@583", "TEST", "Test Mail From Java program", "smtp.gmail.com", "587");
+		//Mail.sendSimpleMail("official.srv.modak@gmail.com", "", "", "", "srvmodak656@gmail.com", "anu#@583", "TEST", "Test Mail From Java program", "smtp.gmail.com", "587");
+		
+		String [] toAddress = {"official.srv.modak@gmail.com", "anuravmodak@gmail.com"};
+		String [] ccAddress = {"", ""};
+		String [] bccAddress = {"", ""};
+		
+		List <String> toAddress = new ArrayList<String>();
+		
+		Mail.sendMultipleRecipientMail(toAddress, ccAddress, bccAddress, "", "srvmodak656@gmail.com", "anu#@583", "TEST", "Test Mail From Java program", "smtp.gmail.com", "587");
+
+	}
+
+}
